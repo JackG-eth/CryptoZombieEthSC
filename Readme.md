@@ -11,3 +11,5 @@ Lesson 1:
 
     
 Lesson 2:
+  Involves learning about solidity Interfaces, Multiple return values, function visibility, different types of storage, require keyword, Msg.Sender Mappings and Addresses.
+  https://share.cryptozombies.io/en/lesson/2/share/JackWeb3?id=Y3p8MTc1MjU0
