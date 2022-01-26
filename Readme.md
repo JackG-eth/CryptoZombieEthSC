@@ -13,3 +13,14 @@ Lesson 1:
 Lesson 2:
   Involves learning about solidity Interfaces, Multiple return values, function visibility, different types of storage, require keyword, Msg.Sender Mappings and Addresses.
   https://share.cryptozombies.io/en/lesson/2/share/JackWeb3?id=Y3p8MTc1MjU0
+
+Lesson 3:
+  Contract Immutability	
+  OpenZeplins Ownable Contract	
+  OnlyOwner Function Modifier	
+  Gas
+  Passing structs as arguments	
+  Public Functions & Security	
+  More on Function Modifiers	
+  Saving Gas	
+  Storage Is Expensive	
