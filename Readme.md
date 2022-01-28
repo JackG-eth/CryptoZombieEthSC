@@ -24,3 +24,6 @@ Lesson 3:
   More on Function Modifiers	
   Saving Gas	
   Storage Is Expensive	
+
+Lesson 4:
+  Is all about building on previous functions while introducing Payability. (storing eth etc)
