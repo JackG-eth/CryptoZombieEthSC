@@ -40,3 +40,11 @@ Truffle:
   You can do so by using a tool called Ganache, which sets up a local Ethereum network.
 
   Every time Ganache starts, it creates 10 test accounts and gives them 100 Ethers to make testing easier. Since Ganache and Truffle are tightly integrated we can access these     accounts through the accounts array we've mentioned in the previous chapter.
+  
+Usually, every test has the following phases:
+
+  set up: in which we define the initial state and initialize the inputs.
+
+  act: where we actually test the code. Always make sure you test only one thing.
+
+  assert: where we check the results.
