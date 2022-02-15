@@ -31,3 +31,12 @@ Lesson 4:
   
 Lesson 5:
   Learning about ERC20 & ERC721 Contracts, Overflow, Onwership etc.
+  
+Chainlink:
+
+Truffle:
+  Before deploying to Ethereum, it is best to test your smart contracts locally.
+
+  You can do so by using a tool called Ganache, which sets up a local Ethereum network.
+
+  Every time Ganache starts, it creates 10 test accounts and gives them 100 Ethers to make testing easier. Since Ganache and Truffle are tightly integrated we can access these     accounts through the accounts array we've mentioned in the previous chapter.
